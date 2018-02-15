@@ -1,0 +1,60 @@
+.brandScroll{
+    font-family: 'Baloo Paaji', cursive;
+    position: relative;
+    top: 7px;
+}
+
+.ui.large.secondary.inverted.pointing.menu{
+    border: none;
+}
+
+.searchBar{
+    position: relative;
+    top: 7px;
+}
+
+.bothSearchBars{
+    margin-right: 25px;
+}
+
+.brand{
+    font-family: 'Baloo Paaji', cursive;
+    position: relative;
+    top: 12px;
+}
+
+#homeHead{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+    url("../images/backgroundMooch.png");
+    background-repeat: none; 
+    background-size: 100% 100%;
+    background-attachment: fixed;    
+}
+
+
+.homeImagediv{
+    width: 150px;
+    height: 150px;
+}
+
+.homeImage{
+    max-width: 100%;
+    max-height:100%;
+}
+
+.imgContainer{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.homeImageCol{
+    margin: auto auto 100px auto !important;
+}
+
+.headerRow{
+    margin-top: 20px;
+}
+
+.footerDiv{
+    text-align: center;
+}
