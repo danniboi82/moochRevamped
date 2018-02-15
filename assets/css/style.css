@@ -64,3 +64,30 @@
 .footerDiv{
     text-align: center;
 }
+
+
+/* ========================Add Product.handlebars======================== */
+
+
+.formWrapper{
+    max-width: 80%;
+    max-height: 90%;
+    border: 1px solid black;
+    margin: 100px auto;
+    padding: 100px 25px;
+}
+
+
+input#item_photo_1.file{
+    border: none;
+}
+
+.photoUploadDiv{
+    text-align: center;
+    margin: auto;
+}
+
+.item_photo_1{
+    text-align: center;
+    margin: auto;
+}
