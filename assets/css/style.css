@@ -8,6 +8,10 @@
     border: none;
 }
 
+.ui.menu .item{
+    position: static !important;
+}
+
 .searchBar{
     position: relative;
     top: 7px;
@@ -32,9 +36,10 @@
 }
 
 
-.homeImagediv{
-    width: 150px;
-    height: 150px;
+.homeImageDiv{
+    width: 100%;
+    margin: auto;
+    height: 200px;
 }
 
 .homeImage{
@@ -48,7 +53,8 @@
 }
 
 .homeImageCol{
-    margin: auto auto 100px auto !important;
+    margin: auto !important;
+    height: 330px;
 }
 
 .headerRow{
